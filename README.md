@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,35:a78bfa,70:f472b6,100:fb923c&height=220&section=header&text=Revanth%20Balakrishnan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20AI%2FML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,35:a78bfa,70:f472b6,100:fb923c&height=220&section=header&text=Revanth%20Balakrishnan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20with%20AI%2FML%20Expertise&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/revanthhhh123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+ML+models+that+actually+work;Turning+data+into+decisions;Full+Stack+Developer+%7C+AI%2FML+Engineer;Exploring+the+Gut-Brain+Axis+with+Python;Predictive+Maintenance+%7C+Data+Analysis" alt="Typing SVG" />
@@ -45,9 +45,9 @@ const revanth = {
 
 ### 🧠 Dynamic Functional Connectivity (dFC) Analysis for Gut–Brain Axis (GBA) Disorder
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthhhh123&repo=DFCGut-Brain-Axis-Project&theme=radical&border_color=a78bfa&title_color=f472b6&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+</div> -->
 
 Machine Learning project analyzing resting-state fMRI data to study dynamic functional connectivity patterns associated with Gut–Brain Axis disorders — using sliding-window correlation, PCA, and SVM-based classification.
 
@@ -65,9 +65,9 @@ Machine Learning project analyzing resting-state fMRI data to study dynamic func
 
 ### ⚙️ Predictive Maintenance using Machine Learning
 
-<div align="left">
+<!-- <div align="left">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=revanthhhh123&repo=Predictive-Maintenance-project-&theme=radical&border_color=fb923c&title_color=7dd3fc&icon_color=f472b6&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+</div> -->
 
 Machine Learning pipeline predicting industrial machine failures from sensor parameters (temperature, rotational speed, torque, tool wear) using Logistic Regression, Decision Tree, and Random Forest — best results achieved with Random Forest.
 
@@ -105,18 +105,18 @@ Machine Learning pipeline predicting industrial machine failures from sensor par
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=revanthhhh123&show_icons=true&theme=radical&border_color=a78bfa&title_color=f472b6&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthhhh123&layout=compact&theme=radical&border_color=a78bfa&title_color=f472b6&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=revanthhhh123&theme=radical&border=a78bfa&ring=f472b6&fire=fb923c&currStreakLabel=7dd3fc&background=0D1117" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=revanthhhh123&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+</div> -->
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthhhh123&theme=react-dark&hide_border=true&color=f472b6&line=a78bfa&point=7dd3fc&area_color=fb923c&area=true" width="100%"/>
