@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,35:a78bfa,70:f472b6,100:fb923c&height=220&section=header&text=Revanth%20Balakrishnan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20with%20AI%2FML%20Expertise&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,35:a78bfa,70:f472b6,100:fb923c&height=220&section=header&text=Revanth% 20Balakrishnan&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Developer%20with%20AI%2FML%20Expertise&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/revanthhhh123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+ML+models+that+actually+work;Turning+data+into+decisions;Full+Stack+Developer+%7C+AI%2FML+Engineer;Exploring+the+Gut-Brain+Axis+with+Python;Predictive+Maintenance+%7C+Data+Analysis" alt="Typing SVG" />
