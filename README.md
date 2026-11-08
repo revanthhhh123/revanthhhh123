@@ -214,15 +214,19 @@ SBR PU College
 
 ---
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=revanthhhh123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img
+  src="https://raw.githubusercontent.com/revanthhhh123/revanthhhh123/output/github-contribution-grid-snake-dark.svg"
+  width="100%"
+  alt="GitHub Contribution Snake"
+/>
 
 </div>
 
----
 
 ## 📫 Connect With Me
 
